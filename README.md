@@ -19,7 +19,7 @@ A repository of C source code files while learning C programming.
 
 ## Toolset
 
-- Developer Command Prompt for Visual Studio
+- **Developer Command Prompt for Visual Studio**
     - If you have Visual Studio installed, you should have this one.
 
 *(To install Visual Studio 2019: https://visualstudio.microsoft.com/downloads/#other)*
