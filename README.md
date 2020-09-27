@@ -2,7 +2,7 @@
 
 A repository of C source code files while learning C programming.
 
-# Compilation and Execution
+# Configuration
 
 ## Environment
 
@@ -31,22 +31,22 @@ A repository of C source code files while learning C programming.
 
         *(To install C++ Build Tools: https://code.visualstudio.com/docs/cpp/config-msvc)*
 
-## Use **cl.exe** To Compile *.c File
+## Use Developer Command Prompt for VS 2019 to Run cl.exe
 
 You can start this tool **ONLY** from a *Developer Command Prompt for Visual Studio 2019*.
 
-### Open Developer Command Prompt for Visual Studio 2019
+### Open Developer Command Prompt for VS 2019
 
 - Approach No.1 - Through Windows Menu (Simplest Way)
 
     1. Simply search in the Windows menu: "developer command prompt".
-    2. The full name should be "Developer Command Prompt for VS 2019".
-    3. The opened terminal by default is under the directory "%PATH%\Microsoft Visual Studio\2019\Community". This is pre-configured by Visual Studio.
-    4. You can use **cd** command to go to your working directory.
+    2. The full name should be "*Developer Command Prompt for VS 2019*".
+    3. The opened terminal by default is under the directory "*%PATH%\Microsoft Visual Studio\2019\Community*". This is pre-set by Visual Studio.
+    4. You can use *cd* command to go to your working directory.
 
-- Approach No.2 - Open In Visual Studio Code (Recommended)
+- Approach No.2 - Open In Visual Studio Code (*Recommended*)
 
-    1. Install the C/C++ extension for VS Code by Microsoft.
+    1. Install the *C/C++ extension for VS Code* by Microsoft.
         - Search extension "C/C++" and install the extension provided by Microsoft.
         - Or, install via: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
     2. Configure your VS Code *settings.json*: add the following lines
