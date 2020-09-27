@@ -19,17 +19,17 @@ A repository of C source code files while learning C programming.
 
 ## Toolset
 
-- **Developer Command Prompt for Visual Studio**
+1. **Developer Command Prompt for Visual Studio**
     - If you have Visual Studio installed, you should have this one.
 
-*(To install Visual Studio 2019: https://visualstudio.microsoft.com/downloads/#other)*
+        *(To install Visual Studio 2019: https://visualstudio.microsoft.com/downloads/#other)*
 
-- Visual Studio Workload - **C++ Build Tools**
+2. Visual Studio Workload - **C++ Build Tools**
     - This workload contains the tool **cl.exe**.
         - cl.exe is a tool that controls the Microsoft C++ (MSVC) C and C++ *compilers* and *linkers*.
         - Note: cl.exe can be run *ONLY* on operating systems that support Microsoft Visual Studio for Windows. 
 
-*(To install C++ Build Tools: https://code.visualstudio.com/docs/cpp/config-msvc)*
+        *(To install C++ Build Tools: https://code.visualstudio.com/docs/cpp/config-msvc)*
 
 ## Use **cl.exe** To Compile *.c File
 
