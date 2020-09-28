@@ -7,9 +7,7 @@ A repository of C source code files while learning C programming.
 - [Configuration](#Configuration)
     - [Environment](#Environment)
     - [Toolset](#Toolset)
-    - [Use Developer Command Prompt for VS 2019 to Run cl.exe](#Use%20Developer%20Command%20Prompt%20for%20VS%202019%20to%20Run%20cl.exe)
-        - [Open Developer Command Prompt for VS 2019](#Open%20Developer%20Command%20Prompt%20for%20VS%202019)
-        - [Compile *.c File Using cl.exe](#Compile%20*.c%20File%20Using%20cl.exe)
+
 # Configuration
 
 The content below specifies how to set up the necessary software environment to compile and run the source code in this repository.
